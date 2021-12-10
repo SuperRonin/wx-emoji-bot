@@ -5,7 +5,6 @@
 [![Juzi.BOT Developer Program](https://img.shields.io/badge/Wechaty%Contributor%20Program-Juzi.BOT-orange.svg)](https://github.com/juzibot/Welcome/wiki/Everything-about-Wechaty/)
 
 基于 wechaty-puppet-padlocal 的微信机器人助手
-[wechaty官网示例](https://wechaty.js.org/docs/tutorials/examples)
 
 [wachaty插件](https://github.com/wechaty/wechaty-plugin-contrib)
 #### 准备
